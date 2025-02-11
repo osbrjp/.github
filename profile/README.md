@@ -1,12 +1,6 @@
-## Hi there 👋
+# OSBR
 
-<!--
+Hi there, we are OSBR based in Malaysia and Japan. Small team, but with a passion for spreading good ideas. Our focus is on developing LLM-powered software, primarily using TypeScript. We are always welcome to connect with our future collaborators, please feel free to reach out to us.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+* **Corporate Website**: [osbrjp.com](https://www.osbrjp.com)
+* **The OSBR Handbook**: [handbook.osbrjp.com](https://osbr-jp.github.io/handbook/)
