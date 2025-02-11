@@ -1,4 +1,4 @@
-# Welcome to our profile
+# Welcome to our page
 
 Hello👋, we are OSBR based in Malaysia and Japan. Small team, but with a passion for spreading good ideas. Our focus is on developing LLM-powered software, primarily using TypeScript. We are always welcome to connect with our future collaborators, please feel free to reach out to us.
 
